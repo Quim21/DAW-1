@@ -6,7 +6,7 @@ Cicle Superior de **Desenvolupament d'Aplicacions Web**
 
 - <a href="#programaci%C3%B3">🎮 Programació</a>
 - <a href="#digitalització">📲​ Digitalització</a>
-- <a href="#base de dades">📊 base de dades</a> 
+- <a href="##base-de-dades">📊 base de dades</a> 
 - <a href="#daw">🎓 Entorns</a>
 - <a href="#docs">📚 Llenguatge de marques</a>
 - <a href="#docs">🖥️ Sistemes</a>
