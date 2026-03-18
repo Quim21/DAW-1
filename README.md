@@ -4,13 +4,14 @@ Cicle Superior de **Desenvolupament d'Aplicacions Web**
 <details>
 <summary>Obrir index</summary>
 
-- <a href="[programació](#programació)">🎮 Programació</a>
-- <a href="#tests">📊 Tests</a> 
-- <a href="#daw">🎓 DAW</a>
-- <a href="#docs">📚 Documentació</a>
+- <a href="#programaci%C3%B3">🎮 Programació</a>
+- <a href="#digitalització">📲​ Digitalització</a>
+- <a href="#tests">📊 base de dades</a> 
+- <a href="#daw">🎓 Entorns</a>
+- <a href="#docs">📚 Llenguatge de marques</a>
+- <a href="#docs">🖥️ Sistemes</a>
 
 </details>
-
 
 ## PROGRAMACIÓ
 Modul de programació
@@ -35,6 +36,15 @@ Modul de programació
 | `7 Escacs` |**<a id ="Escacs" href="https://github.com/Quim21/Programacio/blob/main/%23%20Quim%20Perez%20-%20Escacs.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Escacs V0.8** <br> **<a id ="Escacs1" href="https://github.com/Quim21/Programacio/blob/main/Projecte%20Escacs" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Escacs V1.0** |
 |-----------------|-------------|
 | **Prova parcial 2** |**<a id ="Prova2" href="https://github.com/Quim21/Programacio/blob/main/Prova%20parcial%202.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar Prova parcial 2** |
+
+## Digitalització
+Modul de digitalització
+
+### 📂 Activitats
+| Activitat | enllaç |
+|-----------------|-------------|
+| `1. Xatbot` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/chatbot.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Xatbot</a>** |
+| `2. Generació de dades amb IA` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/generacio_de_dades_amb_ia_versio_final.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Xatbot V2.0</a>** |
 
 ## Digitalització
 Modul de digitalització
