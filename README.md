@@ -1,8 +1,22 @@
-# PROGRAMACIÓ
+# Desenvolupament d'aplicacions web 1 (DAW)
+Cicle Superior de **Desenvolupament d'Aplicacions Web**
+## 📋 Index
+<details>
+<summary>Obrir index</summary>
+
+- <a href="[programació](#programació)">🎮 Programació</a>
+- <a href="#tests">📊 Tests</a> 
+- <a href="#daw">🎓 DAW</a>
+- <a href="#docs">📚 Documentació</a>
+
+</details>
+
+
+## PROGRAMACIÓ
 Modul de programació
 
-## 📂 Activitats
-### 1r trimestre
+### 📂 Activitats
+#### 1r trimestre
 | Activitat | enllaç |
 |-----------------|-------------|
 | `1. Presa de decisions` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/joc.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a joc</a>** |
@@ -14,7 +28,7 @@ Modul de programació
 |-----------------|-------------|
 | **Prova Parcial 1** | **<a id ="prova1" href="https://github.com/Quim21/Programacio/blob/main/Prova%20parcial%201.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a prova parcial 1** |
 
-### 2n trimestre
+#### 2n trimestre
 | Activitat | enllaç |
 |-----------------|-------------|
 | `6. La oca` | **<a id ="oca" href="https://github.com/Quim21/Programacio/blob/main/La-oca.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a La oca** |
@@ -22,5 +36,5 @@ Modul de programació
 |-----------------|-------------|
 | **Prova parcial 2** |**<a id ="Prova2" href="https://github.com/Quim21/Programacio/blob/main/Prova%20parcial%202.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar Prova parcial 2** |
 
-# Digitalització
+## Digitalització
 Modul de digitalització
