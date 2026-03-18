@@ -6,7 +6,7 @@ Cicle Superior de **Desenvolupament d'Aplicacions Web**
 
 - <a href="#programaci%C3%B3">🎮 Programació</a>
 - <a href="#digitalització">📲​ Digitalització</a>
-- <a href="#tests">📊 base de dades</a> 
+- <a href="#base de dades">📊 base de dades</a> 
 - <a href="#daw">🎓 Entorns</a>
 - <a href="#docs">📚 Llenguatge de marques</a>
 - <a href="#docs">🖥️ Sistemes</a>
@@ -46,5 +46,10 @@ Modul de digitalització
 | `1. Xatbot` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/chatbot.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Xatbot</a>** |
 | `2. Generació de dades amb IA` | **<a id="joc" href="https://github.com/Quim21/Programacio/blob/main/generacio_de_dades_amb_ia_versio_final.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a Xatbot V2.0</a>** |
 
-## Digitalització
-Modul de digitalització
+## Base de dades
+Modul de base de dades
+
+### 📂 Activitats
+| Activitat | enllaç |
+|-----------------|-------------|
+| `1. Creació de consultes simples amb SQL` | **<a id="joc" href="https://github.com/Quim21/bbdd/blob/main/ACT1%20-%20Creaci%C3%B3%20de%20consultes%20simples%20amb%20SQL.sql" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a ACT1</a>** |
