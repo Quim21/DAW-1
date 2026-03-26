@@ -29,6 +29,11 @@ Modul de programació
 |-----------------|-------------|
 | **Prova Parcial 1** | **<a id ="prova1" href="https://github.com/Quim21/Programacio/blob/main/Prova%20parcial%201.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar a prova parcial 1** |
 
+#### 3r trimestre
+| Activitat | enllaç |
+|-----------------|-------------|
+| `8. Joc RPG` | **<a id ="oca" href="https://github.com/Quim21/Programacio/blob/main/RPG.py" download style=" background: #28a745;  color: white;  padding: 10px 20px;  border-radius: 5px;  text-decoration: none;  font-weight: bold;  display: inline-block;  border: 2px solid #218838;"> ➡️ Anar al RPG** |
+
 #### 2n trimestre
 | Activitat | enllaç |
 |-----------------|-------------|
